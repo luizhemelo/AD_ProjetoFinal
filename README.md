@@ -1,2 +1,4 @@
-# AD_ProjetoFinal
-Repositório referente ao Projeto Final da disciplina de Aprendizado Descritivo, semestre 2020/1.
+# Projeto Final
+#### Aprendizado Descritivo - 2020/1
+
+Repositório com arquivos e códigos para implementação e execução do Projeto Final da disciplina de Aprendizado Descritivo do semestre 2020/1.
