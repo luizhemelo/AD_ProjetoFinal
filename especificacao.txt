@@ -1,0 +1,105 @@
+Universidade Federal de Minas Gerais -- UFMG
+Instituto de Ciências Exatas -- ICEx
+Departamento de Ciência da Computação -- DCC
+DCC831 - Aprendizado Descritivo - 2020/1
+
+Projeto Final
+
+
+1. Objetivos
+------------
+
+O principal objetivo do projeto é explorar de forma prática os conceitos vistos
+na disciplina. Os alunos se reunirão em grupos e irão simular o processo de análise
+de dados através de aprendizado descritivo. Para isso, deverão obter os dados,
+limpá-los/pré-processá-los, e aplicar alguma técnica de aprendizado descritivo
+vista no curso. Os grupos também deverão analisar os resultados e comunicá-los de
+forma escrita e oral. Dessa forma, o aluno irá experienciar os desafios relacionados
+a análise de dados em ambientes mais reais. A apresentação escrita e oral dos resultados
+servirá também como experiência para o grupo tanto do ponto de vista acadêmico, 
+na apresentação de resultados em forma de artigo e palestras públicas, quanto do ponto
+de vista de formulação de relatórios que possam ser absorvidos por pessoas não diretamente
+relacionadas ao problema investigado.
+
+
+2. Tarefas
+----------
+
+São tarefas do projeto:
+
+	i.  Obter dados para executar a análise. Os dados têm de ser representativos de
+	problemas reais. Ou seja, dados obtidos de repositórios de benchmarks para Aprendizado
+	de Máquina, tais como UCI ML Repository, não constituem dados viáveis para o projeto.
+	Outras fontes como o Kaggle podem ser consultadas, porém, deve se ter cuidado com
+	o conjunto de dados escolhido. Conjuntos muito simples podem não permitir a aplicação
+	das técnicas.
+	
+	ii. Limpeza dos dados. Tendo obtido os dados, os alunos deverão aplicar as transformações
+	necessárias para tratar os dados e adequá-los à análise que será aplicada. Entre as
+	possíveis tarefas podem estar eliminação/preenchimento de dados ausentes, mudança
+	de formato dos dados, codificação ...
+	
+	iii. Aplicação de aprendizado descritivo. Nessa etapa, os alunos deverão aplicar
+	alguma(s) técnica(s) vista(s) no curso para analisar os dados e extrair padrões
+	interessantes dos mesmos. Podem ser aplicadas tanto técnicas supervisionadas quanto
+	não-supervisionadas. Recomenda-se que os alunos não implementem as técnicas, e tentem
+	obter os algoritmos em algum repositório ou pacote. Existem diversos pacotes para
+	diversos ambientes com praticamente todos os algoritmos vistos nas aulas. Alguns
+	links serão recomendados no final deste documento, mas outros certamente podem ser
+	investigados.
+	
+	iv. Análise dos resultados. Após a aplicação dos métodos, os alunos devem explorar os
+	resultados, interpretando-os em busca de padrões interessantes. Deve-se levar em 
+	consideração aqui as métricas de qualidade dos padrões.
+	
+	v. Documentação/apresentação dos resultados. Os alunos devem narrar/documentar o 
+	processo que executaram durante a análise, bem como os resultados obtidos. Essa
+	documentação se dará de forma escrita através de artigo científico, e de forma oral
+	através de apresentação em sala de aula virtual. O artigo terá no máximo 8 páginas
+	em formato da SBC, o mesmo usado no seminário. A apresentação terá no máximo 10min,
+	e mais 5min para discussão com a turma.
+	
+
+3. O que entregar
+-----------------
+
+Os alunos devem criar um repositório público no SharePoint (ou GitHub) contendo todo 
+o material usado nas análises (pacotes de software não devem ser incluídos no projeto, 
+e sim referenciados para permitir a reprodução). Os dados também não precisam ser
+compartilhados. No entanto, caso sejam abertos, colocar o link para o local onde possam
+ser obtidos.
+
+No Teams, devem ser entregues: o artigo em pdf, os slides, e o link para o repositório
+com o conteúdo das análises.
+
+
+4. Organização
+--------------
+
+O projeto pode ser executado em grupo de até 3 integrantes. Para diminuir a carga de
+trabalho de todos os envolvidos, é recomendável que o projeto seja desenvolvido em grupo.
+Além disso, cada grupo tem que designar atividades a todos os seus membros. Devem ser
+evitadas divisões de tarefas interdependentes. O ideal é que todos estejam trabalhando ao
+mesmo tempo.
+
+Os grupos devem se cadastrar no formulário: 
+https://forms.office.com/Pages/ResponsePage.aspx?id=OWESZFJD10yx-yqXHG9pprm25l4XGdVAiw4ve40Aqd1URTJQMFM2RUI3ODREM1ZNOVlCNFhLM1BUUS4u
+
+Somente um representante de cada grupo deve fazer o cadastro.
+
+5. Datas
+--------
+
+	a. Preenchimento do formulário: 11/10/20
+	b. Submissão do repositório/artigos: 25/10/20
+	c. Apresentações: 27/10 e 29/10
+	
+6. Links úteis
+--------------
+
+http://www.keel.es
+https://rapidminer.com
+https://cran.r-project.org/web/packages/arules/index.html
+http://www.rsubgroup.org
+https://github.com/flemmerich/pysubgroup
+
